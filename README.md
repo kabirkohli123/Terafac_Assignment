@@ -12,7 +12,6 @@ The entire pipeline (Data Loading, Training, Evaluation, and Visualization) is c
 
 **[ CLICK HERE TO OPEN GOOGLE COLAB NOTEBOOK ]([INSERT_YOUR_COLAB_LINK_HERE](https://colab.research.google.com/drive/1KNebyrVF2-Yz1vJMf00cY_HpG1y-56e0?usp=sharing))**
 
-*(Note: The notebook contains all code for Levels 1, 2, 3, and 4. Please ensure "Run All" is executed to see fresh outputs if needed.)*
 
 ---
 
@@ -75,7 +74,6 @@ To ensure rigorous evaluation and prevent data leakage, I implemented a strict *
 | **Level 3** | CustomResNet (Dual-Head + Dropout) | **[93.1%]** | ✅ Completed |
 | **Level 4** | **Ensemble (Level 2 + Level 3)** | **[93.8%]** | ✅ **Completed** |
 
-*(Replace the numbers above with your exact final values from the notebook)*
 
 ---
 
