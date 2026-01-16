@@ -11,7 +11,7 @@
 
 The entire pipeline (Data Loading, Training, Evaluation, and Visualization) is consolidated in a single executable Google Colab Notebook for ease of review.
 
-**[ CLICK HERE TO OPEN GOOGLE COLAB NOTEBOOK ](INSERT_YOUR_COLAB_LINK_HERE)**
+**[ CLICK HERE TO OPEN GOOGLE COLAB NOTEBOOK ]([INSERT_YOUR_COLAB_LINK_HERE](https://colab.research.google.com/drive/1KNebyrVF2-Yz1vJMf00cY_HpG1y-56e0?usp=sharing))**
 
 *(Note: The notebook contains all code for Levels 1, 2, 3, and 4. Please ensure "Run All" is executed to see fresh outputs if needed.)*
 
