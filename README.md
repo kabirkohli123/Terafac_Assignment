@@ -71,8 +71,8 @@ To ensure rigorous evaluation and prevent data leakage, I implemented a strict *
 | :--- | :--- | :--- | :--- |
 | **Level 1** | ResNet18 (Transfer Learning) | **[93.82%]** | ✅ Completed |
 | **Level 2** | ResNet18 + Strong Augmentation | **[99.50%]** | ✅ Completed |
-| **Level 3** | CustomResNet (Dual-Head + Dropout) | **[93.1%]** | ✅ Completed |
-| **Level 4** | **Ensemble (Level 2 + Level 3)** | **[93.8%]** | ✅ **Completed** |
+| **Level 3** | CustomResNet (Dual-Head + Dropout) | **[89.7%]** | ✅ Completed |
+| **Level 4** | **Ensemble (Level 2 + Level 3)** | **[95.38%]** | ✅ **Completed** |
 
 
 ---
