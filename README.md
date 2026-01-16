@@ -2,7 +2,6 @@
 
 **Candidate Name:** Kabir  
 **Submission Date:** 16-01-2026  
-**Highest Level Completed:** **Level 4** (Priority Shortlist Candidate)  
 **Dataset:** Option 1 (CIFAR-10)
 
 ---
